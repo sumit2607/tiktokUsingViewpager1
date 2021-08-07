@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979336464726",
+    "project_id": "tiktokusingviewpager",
+    "storage_bucket": "tiktokusingviewpager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979336464726:android:643098e4b0f23a3f30eef7",
+        "android_client_info": {
+          "package_name": "com.sumit.tiktokusingviewpager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979336464726-69aovqmlsqlhbel18u8sjuer31adtr1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4aQO-_UftTmW-B6Ww5sz6V8gNIWjNXNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979336464726-69aovqmlsqlhbel18u8sjuer31adtr1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
